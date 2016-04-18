@@ -1,3 +1,7 @@
+curl
+vim
+gifsicle
+python-pip
 python-numpy
 python-opencv
 git
